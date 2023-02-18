@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calendari", "Calendari.csproj", "{4252447B-4155-4FF0-8097-7F754120E12F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{FF3514DC-41EA-47E0-8B76-D98A828BFACF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4252447B-4155-4FF0-8097-7F754120E12F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4252447B-4155-4FF0-8097-7F754120E12F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4252447B-4155-4FF0-8097-7F754120E12F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4252447B-4155-4FF0-8097-7F754120E12F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D1924E9-80CC-46DE-8468-43E964853952}
+	EndGlobalSection
+EndGlobal
